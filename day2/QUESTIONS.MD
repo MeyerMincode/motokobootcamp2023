@@ -16,8 +16,8 @@
 
 ## 3. I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?
 
-### Answer
-**14.04**
+### Answer 16.88
+**Disolve Delay: 1.501 Maturity multiplier: 1.125 Voting power 10ICP * DisolveDelay * MM =  16.88**
 
 
 
