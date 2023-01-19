@@ -1,0 +1,16 @@
+
+{
+    "version": 1,
+    "canisters": {
+        "main": {
+            "type": "motoko",
+            "main": "./main.mo",
+            "dependencies": ["book.mo"]
+
+        },
+        "lib": {
+            "main": "./book.mo",
+            "type": "motoko"
+          }
+    }
+}

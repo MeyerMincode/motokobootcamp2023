@@ -1,0 +1,9 @@
+type Book = 
+ record {
+   pages: nat;
+   title: text;
+ };
+service : {
+  add_book: (Book) -> () oneway;
+  get_books: () -> (vec Book);
+}
